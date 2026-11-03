@@ -77,24 +77,18 @@ learns by watching. The first group(s) to finish win the round, and their
 members then play the SeedKeeper quiz to pick who in each group gets the
 device.
 
-### 💳 Round A: flash Satochip and set it up in Sparrow
+### 📱 Round A: unlock a SeedKeeper card
 
 **What you need to have, per group:**
 
-- 💻 A laptop (Mac or Linux) set up with
-  [Step 1 of the javacard guide](https://github.com/DIYbitcoin/guides/tree/main/javacards), with **Sparrow Wallet**
-  installed and `SatoChip-v0.15-0.1.cap` downloaded
-- 🔌 A **smartcard reader**
-- 💳 A blank **J3H145** card
+- 💳 One **J3H145** card set up before the event the same way as the
+  quiz cards (Main activity: SeedKeeper quiz, before the event), but with
+  two different questions so the quiz isn't given away
+- 📱 A phone with **NFC** and the SeedKeeper app
 
-**The race:** the first group to flash Satochip and show you the finished
-wallet in Sparrow wins
-([javacard guide, Steps 4 and 5a](https://github.com/DIYbitcoin/guides/tree/main/javacards)).
-
-**Then, on the same card:** run [setup-quiz-card.sh](setup-quiz-card.sh)
-(Main activity: SeedKeeper quiz, before the event, steps 2 and 3), which removes
-Satochip and sets the card up for the quiz, and the winning group(s) play
-the quiz to pick who in each group gets the device.
+**The race:** post question 1 in the group chat. The first group to
+unlock their card with its answer as the PIN and tell you the answer to
+question 2 saved inside wins.
 
 ### 🔋 Round B: passphrase riddle on a signer
 
@@ -117,15 +111,21 @@ then go back so the signer waits on the passphrase screen.
 **The race:** post the riddle in the group chat. The first group to type
 the right answer as the passphrase and read you their fingerprint wins.
 
-### 📱 Round C: unlock a SeedKeeper card, no laptop
+### 💳 Round C: flash Satochip and set it up in Sparrow
 
 **What you need to have, per group:**
 
-- 💳 One **J3H145** card set up before the event the same way as the
-  quiz cards (Main activity: SeedKeeper quiz, before the event), but with
-  two different questions so the quiz isn't given away
-- 📱 A phone with **NFC** and the SeedKeeper app
+- 💻 A laptop (Mac or Linux) set up with
+  [Step 1 of the javacard guide](https://github.com/DIYbitcoin/guides/tree/main/javacards), with **Sparrow Wallet**
+  installed and `SatoChip-v0.15-0.1.cap` downloaded
+- 🔌 A **smartcard reader**
+- 💳 A blank **J3H145** card
 
-**The race:** post question 1 in the group chat. The first group to
-unlock their card with its answer as the PIN and tell you the answer to
-question 2 saved inside wins.
+**The race:** the first group to flash Satochip and show you the finished
+wallet in Sparrow wins
+([javacard guide, Steps 4 and 5a](https://github.com/DIYbitcoin/guides/tree/main/javacards)).
+
+**Then, on the same card:** run [setup-quiz-card.sh](setup-quiz-card.sh)
+(Main activity: SeedKeeper quiz, before the event, steps 2 and 3), which removes
+Satochip and sets the card up for the quiz, and the winning group(s) play
+the quiz to pick who in each group gets the device.
