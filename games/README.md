@@ -111,3 +111,15 @@ then go back so the signer waits on the passphrase screen.
 
 **The race:** post the riddle in the group chat. The first group to type
 the right answer as the passphrase and read you their fingerprint wins.
+
+### 📱 Round C: unlock a SeedKeeper card, no laptop
+
+**What you need to have, per group:**
+
+- 💳 One **J3H145** card set up for the quiz before the event (Main
+  activity: SeedKeeper quiz, before the event)
+- 📱 A phone with **NFC** and the SeedKeeper app
+
+**The race:** post question 1 in the group chat. The first group to
+unlock their card with its answer as the PIN and tell you the answer to
+question 2 saved inside wins.

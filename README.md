@@ -23,6 +23,10 @@ device.
   words and takes a passphrase. The first group to load the seed, type
   the riddle's answer as the passphrase and read back the right
   fingerprint wins, then plays the SeedKeeper quiz.
+- 📱 **Javacard and phone per group, no laptop:** each group gets a card
+  already set up with SeedKeeper and opens it in the SeedKeeper app. The
+  first group to answer question 1 (the card's PIN), unlock the card and
+  answer question 2 saved inside wins, then plays the SeedKeeper quiz.
 
 ## 📚 Guides
 
