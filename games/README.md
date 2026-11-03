@@ -36,18 +36,20 @@ both.
 1. Download `SeedKeeper-v0.2-0.1.cap`
    ([javacard guide, Step 4](https://github.com/DIYbitcoin/guides/tree/main/javacards))
    and open the Terminal in that folder.
-2. Put your PIN and question 2 at the top of
-   [setup-quiz-card.sh](setup-quiz-card.sh), for example `2048` and
-   `Approximately how many minutes apart are blocks?`.
-3. Put a card in the reader and run the script. It wipes the card,
-   flashes SeedKeeper, sets the PIN, saves question 2 with the label
-   `Question`, then reads both back:
+2. Run [setup-quiz-card.sh](setup-quiz-card.sh) and type your PIN and
+   question 2 when it asks. Keep them off GitHub and anywhere players
+   can see before the event.
 
    ```bash
    bash /path/to/setup-quiz-card.sh
    ```
 
-   ✅ It prints `OK` for a good card. Swap cards and run it again.
+3. Put a card in the reader and press **Enter**. It wipes the card,
+   flashes SeedKeeper, sets the PIN, saves question 2 with the label
+   `Question`, then reads both back.
+
+   ✅ It prints `OK` for a good card. Swap cards and press **Enter**
+   again, or type `q` when you're done.
 4. ✅ Open the first card in the SeedKeeper phone app. Check it asks for
    your PIN (not to set up a new one) and shows question 2.
 
@@ -59,12 +61,11 @@ again on a card a player locks with wrong PINs.
 1. Install the SeedKeeper app: from the App Store on iPhone, or on
    Android from the
    [SeedKeeper Android release](https://github.com/Toporin/Seedkeeper-Android/releases/latest).
-2. Answer question 1 from the group chat, for example "How many words
-   are in the seed word list?". The answer is the card's PIN.
+2. Answer question 1 from the group chat. The answer is the card's PIN.
 3. In the app, press **Click and scan**, hold the card on the back of the
    phone and type the PIN.
 4. Open the saved secret to read question 2.
-5. The first person in each group to tell you its answer (10) wins.
+5. The first person in each group to tell you its answer wins.
 
 ⚠️ Too many wrong PINs lock the card. A locked card isn't bricked: run
 the script on it again.
@@ -91,7 +92,7 @@ wallet in Sparrow wins
 ([javacard guide, Steps 4 and 5a](https://github.com/DIYbitcoin/guides/tree/main/javacards)).
 
 **Then, on the same card:** run [setup-quiz-card.sh](setup-quiz-card.sh)
-(Main activity: SeedKeeper quiz, before the event, step 3), which removes
+(Main activity: SeedKeeper quiz, before the event, steps 2 and 3), which removes
 Satochip and sets the card up for the quiz, and the winning group(s) play
 the quiz to pick who in each group gets the device.
 
