@@ -22,7 +22,7 @@ per group. There are two questions:
 ### 🧰 What you need to have
 
 - 💳 One **J3H145** card per player
-- 💻 Before the event only: your laptop and a **smartcard reader**, with the tools from
+- 💻 Your own laptop and a **smartcard reader**, with the tools from
   [Step 1 of the javacard guide](https://github.com/DIYbitcoin/guides/tree/main/javacards)
 - 📱 Players' own phones with **NFC**
 - 💬 A **group chat** everyone is in, to post question 1
@@ -52,6 +52,9 @@ both.
    again, or type `q` when you're done.
 4. ✅ Open the first card in the SeedKeeper phone app. Check it asks for
    your PIN (not to set up a new one) and shows question 2.
+
+Bring your laptop and reader to the event too, so you can run the script
+again on a card a player locks with wrong PINs.
 
 ### 🙋 At the event, players
 
@@ -88,8 +91,10 @@ device.
 wallet in Sparrow wins
 ([javacard guide, Steps 4 and 5a](https://github.com/DIYbitcoin/guides/tree/main/javacards)).
 
-The winning group(s) then play the SeedKeeper quiz with the cards you set
-up before the event, to pick who in each group gets the device.
+**Then, on the same card:** run [setup-quiz-card.sh](setup-quiz-card.sh)
+(Main activity: SeedKeeper quiz, before the event, steps 2 and 3), which removes
+Satochip and sets the card up for the quiz, and the winning group(s) play
+the quiz to pick who in each group gets the device.
 
 ### 🔋 Round B: passphrase riddle on a signer
 
@@ -116,8 +121,9 @@ the right answer as the passphrase and read you their fingerprint wins.
 
 **What you need to have, per group:**
 
-- 💳 One **J3H145** card set up for the quiz before the event (Main
-  activity: SeedKeeper quiz, before the event)
+- 💳 One **J3H145** card set up before the event the same way as the
+  quiz cards (Main activity: SeedKeeper quiz, before the event), but with
+  two different questions so the quiz isn't given away
 - 📱 A phone with **NFC** and the SeedKeeper app
 
 **The race:** post question 1 in the group chat. The first group to
