@@ -91,8 +91,9 @@ device.
 wallet in Sparrow wins
 ([javacard guide, Steps 4 and 5a](https://github.com/DIYbitcoin/guides/tree/main/javacards)).
 
-**Then, on the same card:** run [setup-quiz-card.sh](setup-quiz-card.sh)
-(Main activity: SeedKeeper quiz, before the event, steps 2 and 3), which removes
+**Then, on the same card:** you run [setup-quiz-card.sh](setup-quiz-card.sh)
+on your own laptop (Main activity: SeedKeeper quiz, before the event,
+steps 2 and 3), so the group never sees the PIN or question. It removes
 Satochip and sets the card up for the quiz, and the winning group(s) play
 the quiz to pick who in each group gets the device.
 

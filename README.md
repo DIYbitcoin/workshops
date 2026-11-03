@@ -17,8 +17,9 @@ device.
 [Details](games/)
 
 - 💻 **Laptop, smartcard reader and javacard per group:** the first group
-  to flash the Satochip-DIY applet and set it up in Sparrow wins. They
-  then remove Satochip, put SeedKeeper on the same card and play the
+  to flash the Satochip-DIY applet and set it up in Sparrow wins. You
+  then turn their card into a quiz card with the setup script on your
+  own laptop, so they never see the PIN or question, and they play the
   SeedKeeper quiz.
 - 🔋 **Powerbank and signer per group:** any signer that loads 12 seed
   words and takes a passphrase. The first group to load the seed, type
@@ -27,5 +28,5 @@ device.
 
 ## 📚 Guides
 
-- 💳 [Flashing javacards](https://github.com/DIYbitcoin/guides/tree/main/javacards): how to put SeedKeeper onto the quiz
-  cards.
+- 💳 [Flashing javacards](https://github.com/DIYbitcoin/guides/tree/main/javacards): the tools your laptop needs to set
+  up the quiz cards.
