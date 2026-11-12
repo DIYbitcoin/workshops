@@ -1,8 +1,10 @@
 # 🇰🇷 Bitcoin Center Seoul, November 2026
 
 🛠️ Build Your Own Bitcoin Signing Device, a hands on workshop at
-Bitcoin Center Seoul on 10 November 2026: teams installed Kern and KISS
-Signer on boards, and Satochip on blank javacards set up in Sparrow.
+Bitcoin Center Seoul on 10 November 2026: why it matters that signers
+don't all share the same code, then attendees installed Krux on blank
+devices and SeedKeeper on blank javacards, with a quiz to win a
+Waveshare board.
 
 ![DIY signers and javacards on the table at Bitcoin Center Seoul](photos/workshop-1.jpg)
 
