@@ -10,6 +10,8 @@ Waveshare board.
 
 ![The quiz to win a Waveshare board at Bitcoin Center Seoul](photos/workshop-7.jpg)
 
+![The closing slide, Contribute to bitcoin, at Bitcoin Center Seoul](photos/workshop-9.jpg)
+
 ![DIY signers and javacards on the table at Bitcoin Center Seoul](photos/workshop-1.jpg)
 
 ![Krux on a DIY signer at the Bitcoin Center Seoul workshop](photos/workshop-2.jpg)
@@ -25,3 +27,4 @@ Waveshare board.
 📅 [Event page](https://bitcoincenterseoul.com/en/programs/bitcoin-developer-hands-on-workshop)
 · 🐦 [Post about the workshop on X](https://x.com/dongguri2100/status/2120089739114299825)
 · 🐦 [Bitcoin Center Seoul's post on X](https://x.com/BtcCtrSeoul/status/2120691631896863075)
+· 🐦 [An attendee's post on X](https://x.com/Stark21m/status/2120807523670188301)
