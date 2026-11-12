@@ -1,5 +1,6 @@
 # 📸 Workshops we've run
 
+- 🇰🇷 [Busan, November 2026](busan-2026/)
 - 🇰🇷 [Bitcoin Center Seoul, November 2026](seoul-bitcoin-center-2026/)
 - 🇰🇷 [Bitcoin Korea Conference, November 2026](seoul-bitcoin-korea-2026/)
 - 🇰🇷 [bitcoin++ Seoul, November 2026](seoul-btcpp-2026/)
