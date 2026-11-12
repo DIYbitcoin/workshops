@@ -3,6 +3,14 @@
 🛠️ Bitcoin DIY, a free hands on workshop with open source DIY signing
 devices, with Bitcoin Pusan at Base21 in Busan on 11 November 2026.
 
+![The room during the SeedSigner part of the Busan workshop](photos/workshop-2.jpg)
+
+![Attendees putting a signer together at the Busan workshop](photos/workshop-3.jpg)
+
+![DIY signers and javacards on the table at the Busan workshop](photos/workshop-4.jpg)
+
+![Attendees trying the signers at the Busan workshop](photos/workshop-5.jpg)
+
 ![The forks slide on screen at the Busan workshop](photos/workshop-1.jpg)
 
 🐦 [Bitcoin Pusan's announcement on X](https://x.com/bitcoinpusan/status/2120028862780502307)
