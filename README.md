@@ -32,5 +32,16 @@ device.
 
 ## 📚 Guides
 
-- 💳 [Flashing javacards](https://github.com/DIYbitcoin/guides/tree/main/javacards): how to put SeedKeeper onto the quiz
+- 💳 [Flashing javacards](https://diybitcoin.github.io/guides/javacards/): how to put SeedKeeper onto the quiz
   cards.
+- 📟 [DIY signers](https://diybitcoin.github.io/guides/signers/): flash
+  SeedSigner, Kern or KISS Signer onto the Waveshare 3.5 inch board, the
+  board the quiz winners take home.
+- 🗂️ [All DIY signers](https://diybitcoin.github.io/guides/signers-list/):
+  every signer with its boards, code, Telegram chat, simulator and where
+  to buy, for attendees picking their first board.
+
+## 📸 Past workshops
+
+Photos, posts and event pages from every workshop we've run:
+[Past workshops](past-workshops/)
