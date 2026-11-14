@@ -15,6 +15,18 @@ devices, with Bitcoin Pusan at Base21 in Busan on 11 November 2026.
 
 ![The forks slide on screen at the Busan workshop](photos/workshop-1.jpg)
 
+![The room during the why build it yourself slide in Busan](photos/workshop-7.jpg)
+
+![DIY signers on the table in front of the ESP32-P4 slide in Busan](photos/workshop-8.jpg)
+
+![Talking through the ESP32-P4 slide at the Busan workshop](photos/workshop-9.jpg)
+
+![Attendees scanning a QR code with a signer at the Busan workshop](photos/workshop-10.jpg)
+
+![The Waveshare ESP32-P4 3.5 inch board box next to its shop page](photos/workshop-11.jpg)
+
+![KISS Signer's home screen in Korean on a DIY signer](photos/workshop-12.jpg)
+
 🐦 [Bitcoin Pusan's announcement on X](https://x.com/bitcoinpusan/status/2120028862780502307)
 · 🐦 [Post about the workshop on X](https://x.com/nldd21/status/2120284995906625693)
 · 🐦 [Post about the workshop on X](https://x.com/eriklocalhost/status/2120444734267080770)
