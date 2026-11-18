@@ -1,4 +1,11 @@
-# 📸 Workshops and talks we've run
+# 📸 Workshops and talks
+
+## 📅 Coming up
+
+- 🇯🇵 [Tokyo Bitcoin Base, November 2026](tokyo-tbb-2026/)
+- 🇯🇵 [Bitcoin Security Mini Conference, November 2026](tokyo-security-conference-2026/): talk
+
+## ✅ Done
 
 - 🇰🇷 [Busan, November 2026](busan-2026/)
 - 🇰🇷 [Bitcoin Center Seoul, November 2026](seoul-bitcoin-center-2026/)

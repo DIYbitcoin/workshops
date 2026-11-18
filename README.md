@@ -41,7 +41,7 @@ device.
   every signer with its boards, code, Telegram chat, simulator and where
   to buy, for attendees picking their first board.
 
-## 📸 Past workshops
+## 📸 Workshops and talks
 
-Photos, posts and event pages from every workshop we've run:
-[Past workshops](past-workshops/)
+Photos, posts and event pages from every workshop and talk we've run,
+and the ones coming up: [Workshops and talks](past-workshops/)
